@@ -1,5 +1,3 @@
-
-
 ````markdown name=README.md
 # Hi, I’m Edward 👋
 **bridgefuturemarketing2018-ck** · Senior Developer at Bridge Future Logistics Ltd  
